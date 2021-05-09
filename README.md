@@ -1,1 +1,1 @@
-# omscs
+# OMSCS
